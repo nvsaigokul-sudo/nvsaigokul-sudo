@@ -272,10 +272,12 @@ Security Recommendations
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nvsaigokul-sudo/nvsaigokul-sudo/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nvsaigokul-sudo&show_icons=true&theme=tokyonight"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
 </p>
 
 ---
