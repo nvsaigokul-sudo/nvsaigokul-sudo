@@ -1,3 +1,5 @@
+
+
 # 🧑‍💻 Sai Gokul
 
 ### *Java Full-Stack Developer • Software Developer • AI Enthusiast*
@@ -63,36 +65,70 @@ Learning:
 
 # 🛡️ Featured Project
 
-## Cyber Sentinel
+## 🚀 Cyber Sentinel
 
 ### AI-Powered Cybersecurity Platform
 
+<div align="center">
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Microservices-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-Pub/Sub-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-Real_Time-1E90FF?style=for-the-badge)
+![ML](https://img.shields.io/badge/Machine_Learning-Threat_Detection-FF6F00?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-ACTIVE_DEVELOPMENT-success?style=for-the-badge)
+
+</div>
+
+| ⚡ Capability | 📋 Description |
+|-------------|--------------|
+| 🛡️ Threat Monitoring | Real-time security event tracking |
+| 🎯 Threat Detection | Intelligent attack identification |
+| 🧠 ML Analysis | Anomaly detection & behavioral analysis |
+| 🔄 Redis Pub/Sub | Event-driven communication |
+| 📡 WebSocket Updates | Instant dashboard synchronization |
+| ☕ Spring Boot | Microservices-based architecture |
+| 🐳 Docker | Containerized deployment |
+| ☸️ Kubernetes | Cloud-native scalability |
+| 📊 Analytics Dashboard | Live security visualization |
+
+### 🏗️ Architecture
+
 ```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Traffic Sources
+      │
+      ▼
+Threat Detection Engine
+      │
+      ▼
+Redis Event Bus
+      │
+      ▼
+Monitoring Services
+      │
+      ▼
+WebSocket Gateway
+      │
+      ▼
+Live Security Dashboard
+```
 
-✔ Real-Time Threat Monitoring
+### 🚧 Development Status
 
-✔ Threat Detection Engine
+🟢 Threat Detection Engine
 
-✔ Machine Learning Based Analysis
+🟢 Real-Time Monitoring
 
-✔ Redis Pub/Sub Messaging
+🟢 Redis Integration
 
-✔ WebSocket Live Updates
+🟢 WebSocket Communication
 
-✔ Spring Boot Microservices
+🟡 Advanced ML Detection
 
-✔ Docker Containerization
+🟡 Kubernetes Deployment
 
-✔ Kubernetes Ready Architecture
+🟡 Cloud Monitoring
 
-✔ Security Analytics Dashboard
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Status: ACTIVE DEVELOPMENT
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
