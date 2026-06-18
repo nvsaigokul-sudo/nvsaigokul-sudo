@@ -1,158 +1,76 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,24,30&text=Sai%20Gokul&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineer%20|%20AI/ML%20Developer%20|%20Spring%20Boot%20Developer&descAlignY=60"/>
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&repeat=true&width=1000&lines=Cybersecurity+Engineer;AI+%26+Machine+Learning+Developer;Spring+Boot+Backend+Engineer;Building+Cyber+Sentinel;Real-Time+Threat+Detection+Systems;Future+Security+Architect"/>
-
-<br><br>
-
-<img width="700" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/saigokulnv">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://saigokul-portfolio-showcase.lovable.app/">
-<img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox-browser&logoColor=white"/>
-</a>
-
-<a href="https://github.com/nvsaigokul-sudo">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=nvsaigokul-sudo&style=for-the-badge&color=blueviolet"/>
-
-</div>
-
----
-
-# 🧑‍💻 About Me
-
-```yaml
-Name: Sai Gokul
-
-Role:
-  - Cybersecurity Engineer
-  - Software Developer
-  - AI & Machine Learning Enthusiast
-
-Current Project:
-  - Cyber Sentinel
-
-Tech Interests:
-  - Artificial Intelligence
-  - Threat Detection
-  - Spring Boot
-  - Distributed Systems
-  - Docker
-  - Kubernetes
-  - Cloud Security
-
-Mission:
-  Build intelligent cyber defense systems
-```
-
----
-
-# 🚀 Technology Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,spring,python,tensorflow,docker,redis,kubernetes,mysql,postgres,git,github,linux,maven,idea,vscode,html,css,javascript&perline=9"/>
-
-</div>
-
----
-
-# 🛡️ Featured Project
-
-## Cyber Sentinel
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-AI Powered Cybersecurity Platform
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-✔ Real-Time Monitoring
-✔ Threat Detection Engine
-✔ Machine Learning Detection
-✔ Redis Pub/Sub
-✔ WebSocket Communication
-✔ Spring Boot Microservices
-✔ Docker Deployment
-✔ Interactive Dashboards
-
-Status: ACTIVE DEVELOPMENT
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-# 📊 GitHub Analytics
+# 🧑‍💻 Sai Gokul
+### *Building Intelligent Cyber Defense Systems*
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Cyber%20Sentinel&fontSize=40&animation=twinkling" alt="Cyber Sentinel Banner" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nvsaigokul-sudo&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nvsaigokul-sudo&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/saigokulnv"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://saigokul-portfolio-showcase.lovable.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
 
-# 📈 Contribution Activity
+## ⚡ About Me
+> *"Turning code into protection and data into defense."*
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nvsaigokul-sudo&theme=tokyo-night&hide_border=true"/>
+I am a **Cybersecurity Engineer**, **Software Developer**, and **AI/ML Enthusiast** dedicated to building next-generation intelligent cyber defense systems. I bridge the gap between advanced machine learning and robust distributed systems to secure modern cloud infrastructure.
 
----
-
-# 🏆 Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=nvsaigokul-sudo&theme=tokyonight&row=1&column=7"/>
+* 🧠 **Tech Interests:** Artificial Intelligence | Threat Detection | Distributed Systems | Cloud Security
+* 🚀 **Current Focus:** Scaling microservice architectures and real-time threat telemetry.
 
 ---
 
-# 🧠 Most Used Languages
+## 🛡️ Featured Project: Cyber Sentinel
+### `AI-Powered Cybersecurity Platform`
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvsaigokul-sudo&layout=compact&theme=tokyonight&hide_border=true"/>
+An intelligent, real-time security monitoring ecosystem designed to detect, analyze, and mitigate threats autonomously.
 
----
+* **Real-Time Pipeline:** Powered by **Redis Pub/Sub** and **WebSocket Communication** for instantaneous alerting.
+* **Intelligent Core:** Integrated **Machine Learning Detection Engine** to catch zero-day anomalies.
+* **Architecture:** Robust **Spring Boot Microservices** orchestrated with **Docker** & **Kubernetes**.
+* **Visualization:** Interactive, low-latency security dashboards.
 
-# 🐍 Contribution Snake
-
-![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
-
----
-
-<div align="center">
-
-## 🌐 Connect With Me
-
-💼 LinkedIn:
-https://www.linkedin.com/in/saigokulnv
-
-🚀 Portfolio:
-https://saigokul-portfolio-showcase.lovable.app
-
-</div>
+`Status: ACTIVE DEVELOPMENT 🛠️`
 
 ---
 
-<div align="center">
+## 💻 Tech Stack
 
-### ⚡ Building Intelligent Cyber Defense Systems
+### 🔒 Cyber & AI
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-*"Turning code into protection and data into defense."*
+### ⚙️ Backend & Architecture
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-</div>
+### ☁️ DevOps & Cloud Security
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&customColorList=12,20,24,30"/>
+---
+
+## 📊 Analytics & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Sai's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+</p>
+
+### 📈 Contribution Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+***
