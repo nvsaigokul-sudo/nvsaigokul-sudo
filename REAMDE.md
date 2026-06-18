@@ -57,20 +57,20 @@ An intelligent, real-time security monitoring ecosystem designed to detect, anal
 ## 📊 Analytics & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saigokulnv&show_icons=true&theme=tokyonight" alt="Sai's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saigokulnv&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nvsaigokul-sudo&show_icons=true&theme=tokyonight" alt="Sai's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvsaigokul-sudo&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
 </p>
 
 ### 📈 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saigokulnv&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nvsaigokul-sudo&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saigokulnv/saigokulnv/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/nvsaigokul-sudo/nvsaigokul-sudo/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ***
