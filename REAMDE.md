@@ -70,7 +70,7 @@ An intelligent, real-time security monitoring ecosystem designed to detect, anal
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nvsaigokul-sudo/nvsaigokul-sudo/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/nvsaigokul-sudo/nvsaigokul-sudo/output/github-contribution-grid-snake.svg?v=1" alt="Snake Animation" />
 </p>
 
 ***
