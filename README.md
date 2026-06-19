@@ -7,8 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Java+Full-Stack+Developer;Cybersecurity+Engineer;AI+%26+Machine+Learning+Enthusiast;Building+Cyber+Sentinel;Spring+Boot+Microservices+Developer;Building+Scalable+Software+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Java+Full-Stack+Developer;Spring+Boot+Microservices+Developer;AI+%26+Machine+Learning+Enthusiast;Data+Science+Minor;Building+Cyber+Sentinel;Building+Scalable+Software+Solutions" />
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/saigokulnv">
