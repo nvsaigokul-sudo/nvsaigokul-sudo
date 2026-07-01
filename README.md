@@ -340,9 +340,9 @@ Security Recommendations
 
 # 🏆 GitHub Achievements
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nvsaigokul-sudo&show_icons=true&theme=tokyonight"/>
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nvsaigokul-sudo&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
