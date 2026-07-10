@@ -330,6 +330,33 @@ Security Recommendations
 
 ---
 
+# 📊 GitHub Summary
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nvsaigokul-sudo&theme=tokyonight)
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nvsaigokul-sudo&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nvsaigokul-sudo&theme=tokyonight" width="49%"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nvsaigokul-sudo&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nvsaigokul-sudo&theme=tokyonight&utcOffset=5.5" width="49%"/>
+
+</div>
+---
+
 # 📈 Contribution Activity
 
 <p align="center">
