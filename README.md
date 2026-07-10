@@ -309,19 +309,6 @@ Security Recommendations
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=nvsaigokul-sudo&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvsaigokul-sudo&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -357,22 +344,6 @@ Security Recommendations
 </div>
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nvsaigokul-sudo&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nvsaigokul-sudo&show_icons=true&theme=tokyonight" />
-</p>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -380,6 +351,15 @@ Security Recommendations
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
 </p>
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nvsaigokul-sudo&theme=tokyo-night&hide_border=true"/>
+</p>
+
+
 
 ---
 
