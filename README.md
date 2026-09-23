@@ -106,7 +106,7 @@
 
 # ⚡ About Me
 
-> *"Turning code into protection and data into defense."*
+> *"Turning algorithms into real-world impact and building resilient software that scales."*
 
 ```yaml
 Name: Sai Gokul
@@ -494,9 +494,9 @@ Security Recommendations
 
 ## 🚀 Mission
 
-### Building Intelligent Cyber Defense Systems
+### Engineering Scalable Software & Intelligent Systems
 
-*"Turning code into protection and data into defense."*
+*"Turning algorithms into real-world impact and building resilient software that scales."*
 
 </div>
 
