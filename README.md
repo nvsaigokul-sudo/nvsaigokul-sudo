@@ -202,6 +202,128 @@ Live Security Dashboard
 
 # 🚀 Other Featured Projects
 
+## 🚨 ResolveIQ
+
+### Production Incident Intelligence Platform
+
+ResolveIQ is a production incident intelligence platform designed to help engineering teams detect, investigate, correlate, and resolve production incidents using observability, event-driven architecture, deterministic detection and correlation, and AI-powered investigation.
+
+<div align="center">
+
+![Java 21](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge\&logo=apachekafka\&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge\&logo=opentelemetry\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![Status](https://img.shields.io/badge/Status-ACTIVE_DEVELOPMENT-success?style=for-the-badge)
+
+</div>
+
+| ⚡ Capability           | 📋 Description                                                |
+| ---------------------- | ------------------------------------------------------------ |
+| 🚨 Incident Detection  | Detects production incidents from telemetry and system signals |
+| 🔗 Correlation Engine  | Correlates related logs, metrics, traces, and events          |
+| 📡 OpenTelemetry       | Collects distributed application observability data          |
+| ⚡ Kafka Streaming     | Event-driven incident and telemetry processing               |
+| 🧠 AI Investigation    | Spring AI-powered investigation workflow                     |
+| 🔍 Evidence-Based RCA  | Generates root-cause analysis from collected evidence        |
+| 📚 Hybrid RAG          | Combines vector similarity with BM25 ranking                 |
+| 🗄️ PostgreSQL          | Persistent incident and application data storage             |
+| 🔴 Redis               | Low-latency caching and temporary state management           |
+| 📊 Observability       | Centralized investigation of production system behavior      |
+| 🏢 Multi-Tenant        | Supports isolated incident intelligence across organizations |
+
+### 🏗️ Architecture
+
+```text
+Production Applications
+          │
+          ▼
+   OpenTelemetry
+          │
+          ▼
+   Telemetry Pipeline
+          │
+          ▼
+      Apache Kafka
+          │
+          ▼
+ Detection & Correlation Engine
+          │
+          ├───────────────┐
+          ▼               ▼
+     Incident Store    Search / RAG
+          │               │
+          │               ├── pgvector
+          │               └── BM25
+          │
+          ▼
+   Spring AI Agent
+          │
+          ▼
+ Evidence-Based Investigation
+          │
+          ▼
+ Root Cause Analysis
+          │
+          ▼
+ Incident Resolution
+```
+
+### 🧠 AI Investigation Workflow
+
+```text
+Incident Detected
+       │
+       ▼
+Collect Evidence
+       │
+       ▼
+Correlate Logs / Metrics / Traces
+       │
+       ▼
+Hybrid Retrieval
+       │
+       ├── Vector Similarity
+       └── BM25 Ranking
+       │
+       ▼
+Spring AI Investigation Agent
+       │
+       ▼
+Evidence-Based RCA
+       │
+       ▼
+Resolution Guidance
+```
+
+### 🛠️ Technology Stack
+
+**Frontend:**<br>
+Next.js • TypeScript • Tailwind CSS • React Three Fiber • Three.js
+
+**Backend:**<br>
+Java • Spring Boot • Spring AI
+
+**Messaging:**<br>
+Apache Kafka
+
+**Observability:**<br>
+OpenTelemetry
+
+**Data:**<br>
+PostgreSQL • pgvector • Redis • TimescaleDB
+
+**Search:**<br>
+OpenSearch • BM25
+
+**AI / RAG:**<br>
+LLM • Embeddings • Hybrid RAG
+
+---
+
 ## 🤖 Cyber AI
 
 ### AI-Powered Threat Analysis & Security Assistant
@@ -246,32 +368,6 @@ Security Recommendations
 ```
 
 🔗 Repository: https://github.com/nvsaigokul-sudo/cyber-ai
-
----
-
-## 📱 Trip Mate
-
-### Smart Travel Planning Android Application
-
-<div align="center">
-
-![Android](https://img.shields.io/badge/Android-Jetpack_Compose-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-Native_Android-7F52FF?style=for-the-badge\&logo=kotlin\&logoColor=white)
-![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-Navigation-7EBC6F?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-COMPLETED-success?style=for-the-badge)
-
-</div>
-
-| ⚡ Feature             | 📋 Description              |
-| --------------------- | --------------------------- |
-| 🗺️ Smart Navigation  | OpenStreetMap integration   |
-| 📍 Destination Search | Find and explore locations  |
-| 🎒 Trip Planning      | Organize travel itineraries |
-| 📱 Jetpack Compose UI | Modern Android interface    |
-| 💾 Local Storage      | Save recent travel plans    |
-| ⚡ Kotlin Development  | Native Android application  |
-
-🔗 Repository: https://github.com/nvsaigokul-sudo/Trip-Mate
 
 ---
 
