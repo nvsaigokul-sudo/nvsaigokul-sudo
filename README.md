@@ -133,7 +133,7 @@ Learning:
 
 ---
 
-# 🛡️ Featured Project
+# 🛡️ Featured Projects
 
 ## 🚀 Cyber Sentinel
 
@@ -199,8 +199,6 @@ Live Security Dashboard
 🟡 Cloud Monitoring
 
 ---
-
-# 🚀 Other Featured Projects
 
 ## 🚨 ResolveIQ
 
@@ -322,7 +320,11 @@ OpenSearch • BM25
 **AI / RAG:**<br>
 LLM • Embeddings • Hybrid RAG
 
+🔗 Repository: https://github.com/nvsaigokul-sudo/resolveiq
+
 ---
+
+# 🚀 Other Featured Projects
 
 ## 🤖 Cyber AI
 
